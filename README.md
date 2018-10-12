@@ -1,6 +1,6 @@
 # flutter responsive ui demos 
 
-flutter responsive UI demo
+flutter responsive UI demos
 
 ## Getting Started
 
